@@ -6,5 +6,5 @@ To install:
 - Step 3: mv pre-built-protobuf-3.5.1-ub18/include/* /usr/local/include/
 - Step 4: mv pre-built-protobuf-3.5.1-ub18/lib/* /usr/local/lib/
 
-https://github.com/downloads/harryyu1994/pre-built-protobuf-3.5.1-ub18/pre-built-protobuf-3.5.1-ub18.zip
+https://github.com/harryyu1994/pre-built-protobuf-3.5.1-ub18/raw/master/pre-built-protobuf-3.5.1-ub18.zip
 
